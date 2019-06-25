@@ -1,2 +1,3 @@
 # Intro_SQL_with_BigQuery
-operations of SQL with BigQuery in Python Notebook
+Operations of SQL with BigQuery in Python Notebook
+1. Getting started
