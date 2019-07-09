@@ -4,4 +4,6 @@ Operations of SQL with BigQuery in Python Notebook
 
 2. [Basic three lines operators](https://github.com/xlyue92/Intro_SQL_with_BigQuery/blob/master/select%20%26%20from%20%26%20where.ipynb)
 
+3. [Aggregates & Clause](https://github.com/xlyue92/Intro_SQL_with_BigQuery/blob/master/Aggregates%20%26%20Clause.ipynb)
+
     **TO BE CONTINUED**
