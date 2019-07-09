@@ -6,4 +6,6 @@ Operations of SQL with BigQuery in Python Notebook
 
 3. [Aggregates & Clause](https://github.com/xlyue92/Intro_SQL_with_BigQuery/blob/master/Aggregates%20%26%20Clause.ipynb)
 
+4. [Aggregates II](https://github.com/xlyue92/Intro_SQL_with_BigQuery/blob/master/Aggregates%20II.ipynb)
+
     **TO BE CONTINUED**
