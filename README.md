@@ -8,4 +8,6 @@ Operations of SQL with BigQuery in Python Notebook
 
 4. [Aggregates II](https://github.com/xlyue92/Intro_SQL_with_BigQuery/blob/master/Aggregates%20II.ipynb)
 
+5. [As & With](https://github.com/xlyue92/Intro_SQL_with_BigQuery/blob/master/As%20%26%20With.ipynb)
+
     **TO BE UPDATED**
