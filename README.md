@@ -10,4 +10,6 @@ Operations of SQL with BigQuery in Python Notebook
 
 5. [As & With](https://github.com/xlyue92/Intro_SQL_with_BigQuery/blob/master/As%20%26%20With.ipynb)
 
-    **TO BE UPDATED**
+6. [Joining Data](https://github.com/xlyue92/Intro_SQL_with_BigQuery/blob/master/Joining%20Data.ipynb)
+
+    **UPDATED**
