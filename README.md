@@ -15,4 +15,4 @@ Sqlite3 with Pandas exercises
 6. [Joining Data](https://github.com/xlyue92/Intro_SQL_with_BigQuery/blob/master/Joining%20Data.ipynb)
 
     **UPDATED**
-7. [SQL in 10 Minutes intro](https://github.com/xlyue92/Intro_SQL_with_BigQuery/blob/master/sql%20in%2010%20minutes.ipynb)
+7. [SQL in 10 Minutes Intro](https://github.com/xlyue92/Intro_SQL_with_BigQuery/blob/master/sql%20in%2010%20minutes.ipynb)
