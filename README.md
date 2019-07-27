@@ -26,3 +26,5 @@ Sqlite3 with Pandas exercises
 11. [Lesson V](https://github.com/xlyue92/Intro_SQL_with_BigQuery/blob/master/SQL%20in%2010%20Minutes/Lesson%20V.ipynb)
 
 12. [Lesson VI](https://github.com/xlyue92/Intro_SQL_with_BigQuery/blob/master/SQL%20in%2010%20Minutes/Lesson%20VI.ipynb)
+
+13. [Lesson VII](https://github.com/xlyue92/SQL_with_BigQuery_SQLite/blob/master/SQL%20in%2010%20Minutes/Lesson%20VII.ipynb)
