@@ -1,5 +1,5 @@
 # SQL_with_BigQuery_SQLite
-Operations of SQL with BigQuery in Python Notebook
+Operations of SQL with BigQuery in Python Notebook, based on Kaggle Competition & Course Practises
 
 Sqlite3 with Pandas exercises
 1. [Getting started Intro with BigQuery](https://github.com/xlyue92/Intro_SQL_with_BigQuery/blob/master/SQL%20with%20Bigquery.ipynb)
